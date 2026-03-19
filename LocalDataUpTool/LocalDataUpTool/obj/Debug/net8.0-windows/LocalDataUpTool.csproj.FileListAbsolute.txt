@@ -1,0 +1,16 @@
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\bin\Debug\net8.0-windows\LocalDataUpTool.exe
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\bin\Debug\net8.0-windows\LocalDataUpTool.deps.json
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\bin\Debug\net8.0-windows\LocalDataUpTool.runtimeconfig.json
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\bin\Debug\net8.0-windows\LocalDataUpTool.dll
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\bin\Debug\net8.0-windows\LocalDataUpTool.pdb
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.Form1.resources
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.csproj.GenerateResource.cache
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.GeneratedMSBuildEditorConfig.editorconfig
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.AssemblyInfoInputs.cache
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.AssemblyInfo.cs
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.csproj.CoreCompileInputs.cache
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.dll
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\refint\LocalDataUpTool.dll
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.pdb
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\LocalDataUpTool.genruntimeconfig.cache
+G:\上海黍峰生物科技有限公司\sf服务器3月5日\LocalDataUpTool\LocalDataUpTool\obj\Debug\net8.0-windows\ref\LocalDataUpTool.dll
