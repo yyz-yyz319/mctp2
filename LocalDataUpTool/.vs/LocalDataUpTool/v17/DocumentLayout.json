@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u4E0A\u6D77\u9ECD\u5CF0\u751F\u7269\u79D1\u6280\u6709\u9650\u516C\u53F8\\sf\u670D\u52A1\u56683\u67085\u65E5\\LocalDataUpTool\\LocalDataUpTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD78B5A6-E54C-4927-A5F4-9E5BEE6D1A8C}|LocalDataUpTool.csproj|g:\\\u4E0A\u6D77\u9ECD\u5CF0\u751F\u7269\u79D1\u6280\u6709\u9650\u516C\u53F8\\sf\u670D\u52A1\u56683\u67085\u65E5\\localdatauptool\\localdatauptool\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AD78B5A6-E54C-4927-A5F4-9E5BEE6D1A8C}|LocalDataUpTool.csproj|solutionrelative:appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD78B5A6-E54C-4927-A5F4-9E5BEE6D1A8C}|LocalDataUpTool.csproj|g:\\\u4E0A\u6D77\u9ECD\u5CF0\u751F\u7269\u79D1\u6280\u6709\u9650\u516C\u53F8\\sf\u670D\u52A1\u56683\u67085\u65E5\\localdatauptool\\localdatauptool\\data\\01210409.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AD78B5A6-E54C-4927-A5F4-9E5BEE6D1A8C}|LocalDataUpTool.csproj|solutionrelative:data\\01210409.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01210409.json",
+              "DocumentMoniker": "G:\\\u4E0A\u6D77\u9ECD\u5CF0\u751F\u7269\u79D1\u6280\u6709\u9650\u516C\u53F8\\sf\u670D\u52A1\u56683\u67085\u65E5\\LocalDataUpTool\\LocalDataUpTool\\data\\01210409.json",
+              "RelativeDocumentMoniker": "data\\01210409.json",
+              "ToolTip": "G:\\\u4E0A\u6D77\u9ECD\u5CF0\u751F\u7269\u79D1\u6280\u6709\u9650\u516C\u53F8\\sf\u670D\u52A1\u56683\u67085\u65E5\\LocalDataUpTool\\LocalDataUpTool\\data\\01210409.json",
+              "RelativeToolTip": "data\\01210409.json",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv3kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T06:32:09.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\\u4E0A\u6D77\u9ECD\u5CF0\u751F\u7269\u79D1\u6280\u6709\u9650\u516C\u53F8\\sf\u670D\u52A1\u56683\u67085\u65E5\\LocalDataUpTool\\LocalDataUpTool\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\\u4E0A\u6D77\u9ECD\u5CF0\u751F\u7269\u79D1\u6280\u6709\u9650\u516C\u53F8\\sf\u670D\u52A1\u56683\u67085\u65E5\\LocalDataUpTool\\LocalDataUpTool\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T01:33:29.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
